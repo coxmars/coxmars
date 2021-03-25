@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @coxmars
+- 👀 I’m interested in computer science, AI, and I have passion for technology.
+- 🌱 I’m currently learning Python and Java
+- 📫 How to reach me in Instagram like marcoaj2310.
