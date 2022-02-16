@@ -1,8 +1,8 @@
 - 👋 Hola yo soy @coxmars
-- 👀 Estoy interesado en ciencias de la computación, inteligencia artificial, ciberseguridad y tengo una gran pasión por la tecnología.
-- 🌱 Actualmente estoy profundizando mis conocimientos en Python y Java.
+- 👀 Estoy interesado en desarrrollo de software, inteligencia artificial, ciberseguridad y tengo una gran pasión por la tecnología.
+- 🌱 Actualmente estoy profundizando mis conocimientos en Java.
 - 📫 Para colaboraciones en proyectos contáctame a mi correo: marcojime23@gmail.com
 - 👋 Hi, I’m @coxmars
-- 👀 I’m interested in computer science, AI, cybersecurity and have passion for technology.
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in software development, AI, cybersecurity and have passion for technology.
+- 🌱 I’m currently learning Java
 - 📫 For collaborations in projects contact me at my email: marcojime23@gmail.com
