@@ -1,8 +1,8 @@
 - 👋 Hola yo soy @coxmars
-- 👀 Estoy interesado en desarrollo de software, inteligencia artificial, ciberseguridad y blockchain tengo una gran pasión por la tecnología.
+- 👀 Interesado en programación orientada a objetos, estructuras de datos y algoritmos, y control de calidad.
 - 🌱 Actualmente estoy profundizando mis conocimientos en Java.
 - 📫 Para colaboraciones en proyectos contáctame a mi correo: marcojime23@gmail.com
 - 👋 Hi, I’m @coxmars
-- 👀 I am interested in software development, artificial intelligence, cybersecurity and blockchain I have a great passion for technology.
+- 👀 Interested in object-oriented programming, data structures and algorithms, and quality assurance.
 - 🌱 I’m currently learning Java
 - 📫 For collaborations in projects contact me at my email: marcojime23@gmail.com
