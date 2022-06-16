@@ -1,3 +1,4 @@
+# Información Personal
 - 👋 Hola yo soy @coxmars
 - 👀 Interesado en programación orientada a objetos, estructuras de datos y algoritmos.
 - 🌱 Actualmente estoy profundizando mis conocimientos en Java.
