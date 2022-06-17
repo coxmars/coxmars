@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Marco
-![Twitter Follow](https://img.shields.io/twitter/follow/marco2310araya?logo=twitter&style=social)
-![GitHub followers](https://img.shields.io/github/followers/coxmars?logo=github&style=social)
 
 - 👀 Interesado en programación orientada a objetos, estructuras de datos y algoritmos.
 - 🌱 Actualmente estoy profundizando mis conocimientos en Java y desarrollo web
