@@ -8,7 +8,7 @@
 - 📫 For collaborations in projects contact me at my email: marcojime23@gmail.com
 
 ## Overview
-![Data](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
+![Data](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coxmars&theme=vue)
 
 ## Tech Stack
 ### Backend Technologies:
