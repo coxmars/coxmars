@@ -10,8 +10,6 @@
 ## Overview
 ![Data](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coxmars&theme=vue)
 
-![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coxmars)
-
 ## Tech Stack
 ### Backend Technologies:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
