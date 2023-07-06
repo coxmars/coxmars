@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Marco
 
 - 👀 Interesado en programación orientada a objetos, estructuras de datos y algoritmos.
-- 🌱 Actualmente estoy profundizando mis conocimientos en Java y desarrollo web
+- 🌱 Actualmente estoy profundizando mis conocimientos en desarrollo web (Angular, React), Java, SpringBoot, MVC, Rest API.
 - 📫 Para colaboraciones en proyectos contáctame a mi correo: marcojime23@gmail.com
 - 👀 Interested in object-oriented programming, data structures and algorithms.
-- 🌱 I’m currently learning Java and web development.
+- 🌱 I am currently learning in web development (Angular, React), Java, SpringBoot, MVC, Rest API.
 - 📫 For collaborations in projects contact me at my email: marcojime23@gmail.com
 
 ## Overview
