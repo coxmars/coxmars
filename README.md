@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Marco
 
-- 👀 Interested in object-oriented programming, data structures, algorithms and blockchain development.
+- 👀 Interested in object-oriented programming, data structures, algorithms and blockchain development with Solidity and Cairo.
 - 🌱 I am currently learning mobile development with Flutter, Dart and FlutterFlow.
 - 📫 For collaborations in projects contact me at my email: marcojime23@gmail.com
 
