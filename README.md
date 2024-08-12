@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4500&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Geek;Programmer;Do+not+stop+of+learning" alt="Typing SVG" /></a>
 </p>
 
-- 👀 Interested in object-oriented programming, data structures, algorithms and blockchain development with Cairo, Rust and Solidity.
+- 👀 Interested in object-oriented programming, data structures and blockchain development with Cairo, Rust and Solidity.
 - 🌱 I am currently learning mobile development with Flutter, Dart and FlutterFlow.
 - 🥷🏼 I like to contribute in open source projects related with Blockchain.
 - 📫 For collaborations in projects reach me out: https://t.me/coxmar23.
