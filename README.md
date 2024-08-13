@@ -17,4 +17,4 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coxmars&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coxmars&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coxmars&layout=compact)
