@@ -7,7 +7,6 @@
 </p>
 
 - 👀 Interested in object-oriented programming, data structures and blockchain development with Cairo, Rust and Solidity.
-- 🌱 I am currently learning mobile development with Flutter, Dart and FlutterFlow.
 - 🥷🏼 I like to contribute in open source projects related with Blockchain.
 - 📫 For collaborations in projects reach me out: https://t.me/coxmar23.
 
