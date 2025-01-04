@@ -8,11 +8,8 @@
 
 - 👀 Interested in object-oriented programming, data structures and blockchain development with Cairo, Rust and Solidity.
 - 🥷🏼 I like to contribute in open source projects related with Blockchain.
-- 📫 For collaborations in projects reach me out: https://t.me/coxmar23.
 
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=coxmars)](https://git.io/streak-stats)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coxmars&show_icons=true)
 
