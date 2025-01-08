@@ -9,7 +9,6 @@
 - Interested in object-oriented programming, data structures and blockchain development with Cairo, Rust and Solidity.
 - I like to contribute in open source projects related with Blockchain.
 
-<br>
 
 ## 🏆 Achievements 
 - 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [🌐 BabyBeasts](https://github.com/ByteBuildersLabs/BabyBeastsv2)
