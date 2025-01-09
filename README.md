@@ -17,5 +17,3 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=coxmars)](https://git.io/streak-stats)
-
