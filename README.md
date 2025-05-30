@@ -11,11 +11,11 @@
 
 
 ## 🏆 Achievements 
-- 🗓️ **06/2024** Competitor at Starkhack [🌐 ByteBeasts](https://ethglobal.com/showcase/bytebeasts-kf97c)
-- 🗓️ **07/2024** Competitor at Starknet Brussels Hacker House [🌐 ByteBeasts](https://github.com/ByteBuildersLabs/ByteBeastsFrontend)
+- 🗓️ **05/2025** 🥇 1st in Gaming Track - 🥉 3rd in Best Use of Starknet at Re{ignite} Starknet Hackathon [🌐 Golem Runner](https://golemrunner.live/)
+- 🗓️ **02/2025** Competitor at Starknet Denver Hacker House [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
+- 🗓️ **01/2025** 🎖️ 4th at Starkware x Realms World AI Agent Hackathon [🌐 ByteBeasts Tamagotchi AI Agent](https://github.com/ByteBuildersLabs/BabyBeastsv2)
 - 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
-- 🗓️ **02/2025** 4th at Realms World x Starkware AI Agent Hackathon [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
-- 🗓️ **03/2025** Competitor at Starknet Denver Hacker House  [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
+- 🗓️ **07/2024** Competitor at Starknet Brussels Hacker House [🌐 ByteBeasts](https://github.com/ByteBuildersLabs/ByteBeastsFrontend)
 
 <br>
 
