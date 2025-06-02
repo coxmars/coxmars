@@ -18,7 +18,7 @@
 ### 🚀 OSS Projects
 🧩 [Starkiro](https://github.com/KaizeNodeLabs/starkiro) — Maintainer of a curated codebase designed to onboard new developers into the Starknet ecosystem. <br>
 🕹️ [DojoByExample](https://github.com/AkatsukiLabs/DojoByExample) — Maintainer of a hands-on codebase that helps developers build fully onchain games using Dojo and Starknet. <br>
-🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of a grant-focused escrow system designed to streamline bounty and grant distribution in the Stellar ecosystem.
+🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of a grant-focused escrow platform designed to streamline bounty and grant distribution in Stellar.
 
 ### 🏆 Achievements 
 - 🗓️ **05/2025** 🥇 1st in Gaming Track - 🥉 3rd in Best Use of Starknet at Re{ignite} Starknet Hackathon [🌐 Golem Runner](https://golemrunner.live/)
