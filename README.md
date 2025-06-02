@@ -6,11 +6,21 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4500&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Geek;Programmer;Do+not+stop+of+learning" alt="Typing SVG" /></a>
 </p>
 
-- Interested in object-oriented programming, data structures and blockchain development with Cairo, Rust and Solidity.
-- I like to contribute in open source projects related with Blockchain.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI1c3VjdTUyeDU3dGJxa2hzcGRyZjE5ZHNuOTlsMXF5aTU5NGVvaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WOb8EeFziTQNE02WXs/giphy.gif" />
+</p>
 
 
-## 🏆 Achievements 
+### 🫆 Status
+- Passionate about object-oriented programming, data structures, and blockchain development using Cairo, Rust, and Solidity.
+- Actively contributing to open-source projects focused on blockchain technologies.
+
+### 🚀 OSS Projects
+🧩 [Starkiro](https://github.com/KaizeNodeLabs/starkiro) — Maintainer of a curated codebase designed to onboard new developers into the Starknet ecosystem. <br>
+🕹️ [DojoByExample](https://github.com/AkatsukiLabs/DojoByExample) — Maintainer of a hands-on codebase that helps developers build fully onchain games using Dojo and Starknet. <br>
+🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of a grant-focused escrow system designed to streamline bounty and grant distribution in the Stellar ecosystem.
+
+### 🏆 Achievements 
 - 🗓️ **05/2025** 🥇 1st in Gaming Track - 🥉 3rd in Best Use of Starknet at Re{ignite} Starknet Hackathon [🌐 Golem Runner](https://golemrunner.live/)
 - 🗓️ **02/2025** Competitor at Starknet Denver Hacker House [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
 - 🗓️ **01/2025** 🎖️ 4th at Starkware x Realms World AI Agent Hackathon [🌐 ByteBeasts Tamagotchi AI Agent](https://github.com/ByteBuildersLabs/BabyBeastsv2)
