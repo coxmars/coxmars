@@ -21,9 +21,10 @@
 🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of a grant-focused escrow platform designed to streamline bounty and grant distribution in Stellar.
 
 ### 🏆 Achievements 
-- 🗓️ **05/2025** 🥇 1st in Gaming Track - 🥉 3rd in Best Use of Starknet at Re{ignite} Starknet Hackathon [🌐 Golem Runner](https://golemrunner.live/)
+- 🗓️ **09/2025** 🥇 1st in Aegis-v1 Cavos mini hackathon [🌐 Duck Hunt](https://x.com/cavosxyz/status/1965102540556751172)
+- 🗓️ **05/2025** 🥇 1st in Gaming Track - 🥉 3rd in Best Use of Starknet at Re{ignite} Starknet Hackathon [🌐 Golem Runner](https://www.hackquest.io/es/projects/Golem-Runner)
 - 🗓️ **02/2025** Competitor at Starknet Denver Hacker House [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
-- 🗓️ **01/2025** 🎖️ 4th at Starkware x Realms World AI Agent Hackathon [🌐 ByteBeasts Tamagotchi AI Agent](https://github.com/ByteBuildersLabs/BabyBeastsv2)
+- 🗓️ **01/2025** 🎖️ 4th at Starkware x Realms World AI Agent Hackathon [🌐 ByteBeasts Tamagotchi AI Agent](https://x.com/StarkWareLtd/status/1902346149979443566)
 - 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
 - 🗓️ **07/2024** Competitor at Starknet Brussels Hacker House [🌐 ByteBeasts](https://github.com/ByteBuildersLabs/ByteBeastsFrontend)
 
