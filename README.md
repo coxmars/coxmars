@@ -12,7 +12,7 @@
 
 
 ### 🫆 Status
-- Passionate about object-oriented programming, data structures, and blockchain development using Cairo, Rust, and Solidity.
+- Passionate about object-oriented programming, data structures, and blockchain development using Cairo, Java, .Net.
 - Actively contributing to open-source projects focused on blockchain technologies.
 
 ### 🚀 OSS Projects
