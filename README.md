@@ -18,7 +18,7 @@
 ### 🚀 OSS Projects
 🧩 [Starkiro](https://github.com/KaizeNodeLabs/starkiro) — Maintainer of a curated codebase designed to onboard new developers into the Starknet ecosystem. <br>
 🕹️ [DojoByExample](https://github.com/AkatsukiLabs/DojoByExample) — Maintainer of a hands-on codebase that helps developers build fully onchain games using Dojo and Starknet. <br>
-🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of an open-source contribution platform connecting maintainers and contributors through structured campaigns on Stellar. Facilitates project discovery, contributor onboarding, and transparent reward distribution for blockchain projects using smart escrows.
+🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of an open-source contribution platform connecting maintainers and contributors through structured campaigns on Stellar.
 
 ### 🏆 Achievements 
 - 🗓️ **09/2025** 🥇 1st in Aegis-v1 Cavos mini hackathon [🌐 Duck Hunt](https://x.com/cavosxyz/status/1965102540556751172)
