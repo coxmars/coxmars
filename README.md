@@ -12,7 +12,7 @@
 
 
 ### 🫆 Status
-- Passionate about object-oriented programming, data structures, and software development using Java and .Net.
+- Passionate about object-oriented programming, data structures, and software development.
 - Actively contributing to open-source projects focused on blockchain technologies.
 
 ### 🚀 OSS Projects
@@ -21,7 +21,7 @@
 🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of an open-source contribution platform connecting maintainers and contributors through structured campaigns on Stellar.
 
 ### 🏆 Achievements 
-- 🗓️ **11/2025** 🥈 2nd at Starknet Re{Solve} Hackathon [🌐 Bitwave](https://devpost.com/software/bitwave)
+- 🗓️ **11/2025** 🥇 1st at Starknet Re{Solve} Hackathon [🌐 Bitwave](https://devpost.com/software/bitwave)
 - 🗓️ **09/2025** 🥇 1st in Aegis-v1 Cavos mini hackathon [🌐 Duck Hunt](https://x.com/cavosxyz/status/1965102540556751172)
 - 🗓️ **05/2025** 🥇 1st in Gaming Track - 🥉 3rd in Best Use of Starknet at Re{ignite} Starknet Hackathon [🌐 Golem Runner](https://www.hackquest.io/es/projects/Golem-Runner)
 - 🗓️ **02/2025** Competitor at Starknet Denver Hacker House [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
