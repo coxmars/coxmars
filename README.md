@@ -16,7 +16,7 @@
 - Actively contributing to open-source projects focused on blockchain technologies.
 
 ### 🚀 OSS Projects
-🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of an open-source contribution platform connecting maintainers and contributors through structured campaigns on Stellar.
+🦊 [GrantFox](https://github.com/GrantChain) — Maintainer of an open-source contribution platform connecting maintainers and contributors through structured campaigns on Stellar.
 
 ### 🏆 Achievements 
 - 🗓️ **11/2025** 🥇 1st at Starknet Re{Solve} Hackathon [🌐 Bitwave](https://devpost.com/software/bitwave)
