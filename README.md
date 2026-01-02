@@ -16,8 +16,6 @@
 - Actively contributing to open-source projects focused on blockchain technologies.
 
 ### 🚀 OSS Projects
-🧩 [Starkiro](https://github.com/KaizeNodeLabs/starkiro) — Maintainer of a curated codebase designed to onboard new developers into the Starknet ecosystem. <br>
-🕹️ [DojoByExample](https://github.com/AkatsukiLabs/DojoByExample) — Maintainer of a hands-on codebase that helps developers build fully onchain games using Dojo and Starknet. <br>
 🦊 [GrantFox](https://github.com/GrantChain/GrantFox) — Maintainer of an open-source contribution platform connecting maintainers and contributors through structured campaigns on Stellar.
 
 ### 🏆 Achievements 
